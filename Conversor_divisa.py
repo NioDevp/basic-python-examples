@@ -1,4 +1,5 @@
 #CONVERSOR DIVISAS
+#El factor de conversión puede variar con el tiempo/ The convesion factor can change over time
 
 dolar_euro = 0,90
 euro_dolar = 1,11
