@@ -10,11 +10,11 @@ puedes hacer al código original para practicar con tus conocimientos sobre el l
 
 Espero que os sirva y que aprendais
 
+.
+.
+.
 
 
-
-
-     
 Welcome to the repository coding by NioDev
 
 This Repository has a large number of Python program examples to assist beginners in this language in understanding how Python works.
